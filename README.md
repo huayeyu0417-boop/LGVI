@@ -54,12 +54,10 @@
 ---
 
 ## Copyright (c)
-
-This software is distributed for academic research and educational purposes only.  
-
+This software is distributed for academic research and educational purposes only. 
 Commercial use is strictly prohibited without prior written permission from the authors.  
 For licensing inquiries, please contact:
----
+
 
 
 
