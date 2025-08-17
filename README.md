@@ -57,7 +57,14 @@
 ```bash
 # Run LGVI calculation
 python lgvi.py --points observer_points.shp --features city_layers.shp --num_angles 360 --radius 100
+---
+Copyright (c)
 
+This software is distributed for academic research and educational purposes only.  
+
+Commercial use is strictly prohibited without prior written permission from the authors.  
+For licensing inquiries, please contact:
+---
 
 
 
