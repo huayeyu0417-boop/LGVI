@@ -1,7 +1,7 @@
 
 
-**TL;DR**  
-Efficiently calculate **Greenview / Buildview / Blueview** proportions by casting radial lines from observer points, intersecting with urban features, and projecting results onto a 1D coverage array.
+
+## Efficiently calculate **Greenview / Buildview / Blueview** proportions by casting radial lines from observer points, intersecting with urban features, and projecting results onto a 1D coverage array.
 
 ---
 
