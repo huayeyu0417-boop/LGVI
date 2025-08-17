@@ -56,7 +56,7 @@
 ## Copyright (c)
 This software is distributed for academic research and educational purposes only. 
 Commercial use is strictly prohibited without prior written permission from the authors.  
-For licensing inquiries, please contact:
+For licensing inquiries, please contact: 2691165837@qq.com
 
 
 
