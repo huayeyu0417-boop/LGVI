@@ -47,17 +47,17 @@ Efficiently calculate **Greenview / Buildview / Blueview** proportions by castin
 👉 Custom mappings can be specified via parameters.
 
 ---
+## Case area
+<img width="834" height="747" alt="image" src="https://github.com/user-attachments/assets/533ebd0f-e5d5-4062-b997-37a9f281d9ca" />
 
+<img width="865" height="486" alt="image" src="https://github.com/user-attachments/assets/5c700573-5e51-4f1b-95c7-b761eb795db0" /># LGVI
+---
 ## 📌 Example Usage
 
 ```bash
 # Run LGVI calculation
 python lgvi.py --points observer_points.shp --features city_layers.shp --num_angles 360 --radius 100
 
-##  Case area
-<img width="834" height="747" alt="image" src="https://github.com/user-attachments/assets/533ebd0f-e5d5-4062-b997-37a9f281d9ca" />
-
-<img width="865" height="486" alt="image" src="https://github.com/user-attachments/assets/5c700573-5e51-4f1b-95c7-b761eb795db0" /># LGVI
 
 
 
