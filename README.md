@@ -52,13 +52,8 @@
 
 <img width="865" height="486" alt="image" src="https://github.com/user-attachments/assets/5c700573-5e51-4f1b-95c7-b761eb795db0" /># LGVI
 ---
-## 📌 Example Usage
 
-```bash
-# Run LGVI calculation
-python lgvi.py --points observer_points.shp --features city_layers.shp --num_angles 360 --radius 100
----
-Copyright (c)
+## Copyright (c)
 
 This software is distributed for academic research and educational purposes only.  
 
